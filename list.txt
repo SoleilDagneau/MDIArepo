@@ -5,3 +5,8 @@ paper
 glue
 notebook
 markers
+
+Groceries
+Bread
+Butter
+Milk
